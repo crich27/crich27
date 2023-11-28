@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm just starting my career in software! Nice to meet you 🖐️ 
+I'm just starting my career in software! Nice to meet you 
+
+Hopeing to make the healthcare system a better place 🖥
 <!--
 **crich27/crich27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
